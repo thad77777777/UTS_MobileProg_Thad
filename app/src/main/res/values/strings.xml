@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Clash Of Clans</string>
+
+    <string name="top_indo">Top Troops Most Views in Clash Of Clans</string>
+    <string name="description">Deskripsi</string>
+    <string name="keterangan_default">Artikel</string>
+    <string name="about">About</string>
+    <string name="nama">Thadeo Miftakhul Fauzi</string>
+    <string name="email">thad.mf77@gmail.com</string>
+    <string-array name="data_name">
+        <item>Barbarian</item>
+        <item>Archer</item>
+        <item>Giant</item>
+        <item>Wizard</item>
+        <item>Ballon</item>
+        <item>Goblin</item>
+        <item>PEKKA</item>
+        <item>WallBreaker</item>
+        <item>Healer</item>
+        <item>Naga</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Barbarian adalah pasukan pertama pada Game Clash of Clans. Anda pastinya sudah familiar dengan pasukan ini pada awal bermain Clash of Clans. Barbarian ini memang cepat pembuatannya dan memiliki hitpoint atau nyawa yang lumayan pada saat menyerang musuh/lawan.</item>
+        <item>Archer adalah seorang prajurit wanita dengan mata yang tajam. Dia mengenakan gaun pendek berwarna hijau muda, jubah berkerudung, ikat pinggang kulit, dan kantong kecil yang terpasang. Dia selalu bertelanjang kaki, termasuk seluruh kulitnya. Dia memiliki tempat anak panah tersandang di punggungnya, busur pendek emas di tangan kirinya, dan pita emas di masing-masing lengan atasnya.</item>
+        <item>Raksasa adalah pasukan ketiga yang dibuka di Barak . Target pertama Raksasa adalah pertahanan , menjadikan mereka pasukan yang ideal untuk dikerahkan guna menyingkirkan pertahanan dengan cepat. Namun, karena damage serangannya yang rendah, mereka lebih baik digunakan dalam kelompok besar.</item>
+        <item>Wizard adalah pasukan yang tidak dikunci di Barak level 7 . Dia adalah unit darat yang rapuh dengan kerusakan dan jangkauan percikan yang tinggi. Penyihir biasanya digunakan dalam kelompok besar untuk memberikan dukungan tembakan atau sebagai pengganda kekuatan (mirip dengan Pemanah ), tetapi mereka juga bisa efektif dalam jumlah yang lebih kecil, terutama pada level yang lebih rendah.</item>
+        <item>Balon adalah Penghancur Tembok yang "dipromosikan" yang sekarang menyerang dari balon udara. Mereka menjatuhkan bom ke tanah dengan kerusakan cipratan area yang luas, yang dapat menghancurkan berbagai target di darat, namun dapat dengan mudah dihancurkan oleh bangunan anti-udara atau bangunan yang merusak cipratan yang menargetkan udara (seperti Pertahanan Udara atau Menara Penyihir ).</item>
+        <item>Goblin adalah salah satu unit darat tercepat dalam game. Kecepatannya memungkinkannya berlari lebih cepat dari pertahanan dan jebakan tertentu, seperti Spring Trap .</item>
+        <item>PEKKA adalah unit yang bisa dibuka di Barak level 10, yang memerlukan Balai Kota level 8. Dia adalah Pasukan Elixir jarak dekat dengan target tunggal yang memiliki damage dan hitpoint tinggi.</item>
+        <item>WallBreaker adalah<item>
+        <item>.<item>
+        <item>.<item>
+    </string-array>
+    //harus diisi
+    <string-array name="data_keterangan">
+        <item>Barbarian memiliki penampilan sangar, memakai rok merah dan memiliki ekspresi siap tempur, serta haus akan pertempuran. Pasukan yang sering disebur Barbar ini memiliki rambut pirang dan panjang berwarna kuning dan kumis. Barbarian adalah pasukan pertama dibuka di Barak. </item>
+        <item>Pemanah tidak memiliki target pilihan saat menyerang; mereka hanya akan menyerang gedung terdekat . Namun, jika mereka mengetahui adanya pasukan Kastil Klan , Pahlawan , atau kerangka Perangkap Tengkorak musuh (baik karena mereka sendiri yang diserang atau karena berada di dekat pasukan teman lain yang sedang diserang), dan dapat melawan mereka, mereka akan meninggalkan bangunan yang mereka targetkan sebelumnya dan sebaliknya libatkan pasukan musuh. Setelah semua pasukan musuh di dekatnya dikalahkan, Pemanah akan melanjutkan menyerang bangunan terdekat.</item>
+        <item>Raksasa memprioritaskan struktur pertahanan di atas semua target lainnya, dan akan melewati semua jenis bangunan dan pasukan musuh lainnya sementara pertahanan apa pun tetap berada di medan perang. Hal ini berlaku meskipun mereka diserang oleh pasukan Kastil Klan musuh , pahlawan , atau kerangka Perangkap Tengkorak. Perhatikan bahwa seperti semua pasukan yang memprioritaskan pertahanan, Raksasa tidak menganggap Kastil Klan sebagai pertahanan terlepas dari apakah kastil tersebut berisi pasukan musuh atau tidak, namun menganggap Penjaga Agung yang bertahan dan senjata Balai Kota yang diaktifkan (jika ada) sebagai pertahanan. bangunan. Setelah semua pertahanan dihancurkan, Raksasa menjadi seperti pasukan lainnya tanpa target pilihan; mereka akan menyerang bangunan terdekat apa pun jenisnya, dan akan berbalik dan menyerang unit musuh jika mereka mengetahui adanya bangunan di dekatnya dan dapat melawan mereka. Namun, mereka tidak akan mengalihkan target ke unit musuh sampai target sebelumnya hancur.</item>
+        <item>Penyihir tidak memiliki target pilihan saat menyerang; mereka hanya akan menyerang gedung terdekat . Namun, jika mereka mengetahui adanya pasukan Kastil Klan , Pahlawan , atau kerangka Perangkap Tengkorak musuh (baik karena mereka sendiri yang diserang atau karena berada di dekat pasukan teman lain yang sedang diserang), dan dapat melawan mereka, mereka akan meninggalkan bangunan yang mereka targetkan sebelumnya dan sebaliknya libatkan pasukan musuh. Setelah semua pasukan musuh di dekatnya dikalahkan, Penyihir akan melanjutkan menyerang bangunan terdekat.</item>
+        <item>Balon memiliki kerusakan yang tinggi pada ruang tempat tinggalnya, tetapi jangkauan dan kecepatan serangannya rendah. Mereka juga tidak bisa mengenai unit udara. Ketika mereka dikalahkan, Balon akan jatuh ke tanah dan meledak, menimbulkan kerusakan yang relatif kecil (dibandingkan dengan kerusakan bomnya).</item>
+        <item>Goblin menimbulkan kerusakan ganda pada bangunan sumber daya, (Balai Kota dan Kastil Klan, Tambang Emas , Kolektor Elixir , Latihan Elixir Hitam , dan penyimpanan untuk masing-masing bangunan). Ini berarti dia menimbulkan kerusakan dua kali lebih besar daripada Barbarian dan tiga kali lebih besar dari Pemanah pada jenis bangunan ini. Imbalannya adalah kesehatannya yang relatif rendah, yang lebih tinggi dari seorang Pemanah tetapi lebih rendah dari seorang Barbarian.</item>
+        <item>PEKKA tidak mempunyai sasaran yang diutamakan ketika melakukan penyerangan; mereka hanya akan menyerang gedung terdekat . Namun, jika mereka mengetahui adanya pasukan Kastil Klan , Pahlawan , atau kerangka Perangkap Tengkorak musuh (baik karena mereka sendiri yang diserang atau karena berada di dekat pasukan teman lain yang sedang diserang), dan dapat melawan mereka, mereka akan meninggalkan bangunan yang mereka targetkan sebelumnya dan sebaliknya libatkan pasukan musuh. Setelah seluruh pasukan musuh di dekatnya dikalahkan, PEKKA akan melanjutkan penyerangan ke bangunan terdekat.</item>
+        <item>ha<item>
+        <item>.<item>
+        <item>.<item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/barbarian</item>
+        <item>@drawable/archer</item>
+        <item>@drawable/giant</item>
+        <item>@drawable/wizard</item>
+        <item>@drawable/ballon</item>
+        <item>@drawable/goblin</item>
+        <item>@drawable/pekka</item>
+        <item>@drawable/wallbreaker<item>
+        <item>@drawable/healer<item>
+        <item>@drawable/naga<item>
+    </integer-array>
+
+</resources>
